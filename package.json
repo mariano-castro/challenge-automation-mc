@@ -20,6 +20,8 @@
   "dependencies": {
     "@types/node": "^22.10.2",
     "allure-playwright": "^3.0.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
     "playwright": "^1.49.1",
     "typescript": "^5.7.2",
     "xlsx": "^0.18.5"
