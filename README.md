@@ -1,4 +1,5 @@
 # Proyecto de Pruebas Automatizadas
+Proyecto de pruebas automatizadas web y api para el desafío técnico.
 
 ## Instalación
 1. Clonar el repositorio con:
